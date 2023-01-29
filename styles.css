@@ -1,24 +1,26 @@
 body {
     margin: 100px;
     text-align: center;
-    font-family: 'Merriweather Sans', serif;
-    font-family: 'Merriweather Sans', sans-serif;
-font-family: 'Montserrat', sans-serif;
-font-family: 'Sacramento', cursive;
+    font-family: 'sacramento', serif;
 }
+
 h1 {
     margin-top: 0;
     font-family: 'sacramento', serif;
 }
+
 h2{
     font-family: 'montserrat', cursive;
 }
+
 h3{
     font-family: 'montserrat', cursive;
 }
+
 div {
     background-color: #e4f9f5;
 }
+
 .top-container{
     padding-top: 100px;
 }
