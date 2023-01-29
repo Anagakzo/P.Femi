@@ -1,20 +1,20 @@
 body {
     margin: 100px;
     text-align: center;
-    font-family: 'sacramento', serif;
+   font-family: 'Merriweather Sans', sans-serif;
 }
 
 h1 {
     margin-top: 0;
-    font-family: 'sacramento', serif;
+   font-family: 'Montserrat', sans-serif;
 }
 
 h2{
-    font-family: 'montserrat', cursive;
+    font-family: 'Sacramento', cursive;
 }
 
 h3{
-    font-family: 'montserrat', cursive;
+    font-family: 'Sacramento', cursive;
 }
 
 div {
@@ -36,9 +36,13 @@ left:250px;
     }
     
 
-.middle-container 
+.middle-container {
+text-align: center;
+}
 
-.bottom-container 
+.bottom-container {
+text-align: center;
+}
 
 .pro {
     text-decoration: underline;
