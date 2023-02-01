@@ -8,7 +8,7 @@ h1 {
     margin-top: 0px ;
    font-family: 'sacramento', serif;
     line-height:2;
-    color:#66BFBF;
+    color: #66BFBF;
      font-size: 5.625rem;
     
 }
@@ -16,16 +16,16 @@ h1 {
 h2{
     font-family: 'Montserrat', cursive;
     font-weight: normal;
-    color:#66BFBF;
+    color: #66BFBF;
     font-size: 2.5rem;
 }
 
 h3{
     font-family: 'Montserrat, cursive;
-    color:#11999E;
+    color: #11999E;
 }
 a {
-    color:#11999E;
+    color: #11999E;
 }
 span{
         text-decoration: underline;
@@ -48,7 +48,3 @@ position: absolute;
 left:250px;
     }
     
-
-.pro {
-    text-decoration: underline;
-}
