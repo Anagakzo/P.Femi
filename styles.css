@@ -1,7 +1,7 @@
 body {
     margin: 0px;
     text-align: center;
-   font-family: 'Merriweather Sans', 'Montserrat', sans-serif;
+   font-family: 'Merriweather Sans', 'Montserrat', 'Sacramento', sans-serif;
 }
 
 h1 {
@@ -46,14 +46,6 @@ position: absolute;
 left:250px;
     }
     
-
-.middle-container {
-text-align: center;
-}
-
-.bottom-container {
-text-align: center;
-}
 
 .pro {
     text-decoration: underline;
